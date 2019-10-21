@@ -2,4 +2,4 @@
 
 What do I need?
   still working on website design
-  need to add more products, research, etc.
+  need to add more project, research, etc.
